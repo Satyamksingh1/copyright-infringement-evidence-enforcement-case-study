@@ -2,7 +2,7 @@
 
 Educational portfolio project. All parties, works, events and evidence are fictional. This is not legal advice and does not describe any real dispute.
 
-**Author:** [YOUR NAME]
+**Author:** [SATYAM KUMAR SINGH]
 **Jurisdiction:** India
 **Assumed date of analysis:** 30 October 2026
 
