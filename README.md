@@ -130,16 +130,4 @@ Summarised here; stated fully in `analysis/limitations.md`.
 - No real evidence files exist, so no evidence hash is computed. The only computed hash in the repository is the worked example on `.gitignore` in the evidence protocol.
 - The author is a law student. A supervising lawyer would review every conclusion before it was acted on.
 
-## 10. Pre-publication checklist
 
-Complete before making this repository public.
-
-- [ ] **Re-verify authorities.** Re-check every VERIFIED entry and, in particular, obtain official texts for the PARTIALLY VERIFIED entries in `research/sources-and-case-law.md`. Update statuses. Confirm the dates and citations flagged there (*Patil Automation*'s decision date; the two reported citations for *Yamini Manohar*).
-- [ ] **Check party names against real entities.** Search the MCA company register, trade mark registers, domain registrations and a general web search for "Quorvane", "Pebblequay", "Millrook", "Ira Velstrom" and "QV-0417". Rename anything that matches a real entity or person.
-- [ ] **Confirm all URLs are reserved example domains** (`.example`, `example.com`, `example.org`, `example.net`, `.test`) and that no fictional item carries a real URL.
-- [ ] **Review the LICENSE.** Confirm the CC BY 4.0 notice and links are current, and that you are content to license the content on those terms.
-- [ ] **Add your name.** Replace every `[YOUR NAME]` placeholder (README, LICENSE, the memorandum heading block, `portfolio/cv-entry.md`).
-- [ ] **Proofread.** Read every file once end to end for consistency of tags, dates and identifiers, and for British and Indian spelling.
-- [ ] **Confirm no personal data or real evidence is included.** No real client material, no real screenshots, no real contact details, no real bank or ID details. Confirm `originals/`, `working/` and the other evidence folders in `.gitignore` are absent or empty, and check the commit history as well as the working tree.
-- [ ] **Confirm the disclaimer is the first thing a reader sees** in README and in every file in `case-file/` and `analysis/`.
-- [ ] **Confirm no file reads as a real document.** No letterheads, signatures, seals, court-style headings, case or diary numbers, notarial wording, or text formatted as a legal notice, affidavit or court order.
