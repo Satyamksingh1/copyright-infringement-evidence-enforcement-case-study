@@ -1,0 +1,3 @@
+event_id,date,time_ist,date_certainty,event_description,actor,evidence_ids,status_tag,notes
+EV-16 (EXAMPLE),2025-01-16,15:12,Documented (capture log),Website banner captured,Quorvane studio operations associate,E-08;E-05,[SOURCED],EXAMPLE ROW: delete before use.
+EV-14 (EXAMPLE),2024-11-01,,Month only; asserted by respondent,Respondent says new pouches launched,Pebblequay (asserted),E-10,[ALLEGATION],EXAMPLE ROW: delete before use. Day recorded as 01 for sorting only.

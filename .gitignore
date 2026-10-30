@@ -1,0 +1,49 @@
+# --- Evidence safety: never commit real evidence or personal data ---
+# Folders reserved for real evidence originals, working copies and personal data.
+# This repository contains fictional material only. If you adapt it for a real
+# matter, keep real evidence outside version control altogether.
+originals/
+working/
+evidence-originals/
+real-evidence/
+personal-data/
+private/
+exports/
+*.eml
+*.msg
+*.pst
+*.mbox
+
+# Raw camera and image working files
+*.raw
+*.cr2
+*.cr3
+*.nef
+*.arw
+*.dng
+*.psd
+
+# --- Operating system files ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- Editor and IDE files ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+.~lock.*#
+~$*
+
+# --- Local environment ---
+.env
+.env.*
